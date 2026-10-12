@@ -1,0 +1,17 @@
+{
+  "project": "Senior Hub 2026 - Residential Care",
+  "currency": "EUR",
+  "total_investment": 1200000,
+  "capacity_residents": 18,
+  "building_size_sqm": 650,
+  "budget_breakdown": [
+    {"category": "Human Resources (Project Management)", "cost_eur": 165000},
+    {"category": "Construction & Building (nZEB)", "cost_eur": 780000},
+    {"category": "nZEB Energy Upgrades (Heat Pumps / Solar)", "cost_eur": 95000},
+    {"category": "IoT & Digitalization Kit", "cost_eur": 15000},
+    {"category": "IT Hardware & Management Software", "cost_eur": 8500},
+    {"category": "Medical & Residential Furniture", "cost_eur": 72000},
+    {"category": "Design, Permitting & Technical Audit", "cost_eur": 60000},
+    {"category": "Publicity & Media Announcements", "cost_eur": 4500}
+  ]
+}
