@@ -14,6 +14,11 @@
 
 ---
 
+- [👵 Proiect Centru Rezidențial „Senior Hub 2026” (nZEB & IoT)](docs/senior_hub_residential_care_2026.md) — Model complet de infrastructură socială, PNRR, specificații tehnice IT/medicale și cash-flow de implementare.
+
+
+---
+
 ## ⚖️ Disclaimer & Limitation of Liability
 THIS SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
 
